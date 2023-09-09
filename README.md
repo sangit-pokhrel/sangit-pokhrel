@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFt-icmDmg/sojoL7vFF_OFiTnWJLwjKw/edit?utm_content=DAFt-icmDmg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+![logo](https://github.com/sangit-pokhrel/sangit-pokhrel/blob/main/Blue%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sangit Pokhrel</h1>
 <h3 align="center">A Passionate FullStack Web/App Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
