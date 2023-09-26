@@ -1,7 +1,7 @@
 ![logo](https://github.com/sangit-pokhrel/sangit-pokhrel/blob/main/Blue%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sangit Pokhrel</h1>
 <h3 align="center">A Passionate FullStack Web/App Developer.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://github.com/sangit-pokhrel/sangit-pokhrel/blob/main/codinggif.gif)">
+<img align="right" alt="Coding" width="400" src="https://github.com/sangit-pokhrel/sangit-pokhrel/blob/main/codinggif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangit-pokhrel&label=Profile%20views&color=0e75b6&style=flat" alt="sangit-pokhrel" /> </p>
 
