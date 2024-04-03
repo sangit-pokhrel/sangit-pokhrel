@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/sangitpokhrel" target="blank"><img src="https://img.shields.io/twitter/follow/sangitpokhrel?logo=twitter&style=for-the-badge" alt="sangitpokhrel" /></a> </p>
 
-- 🔭 I’m currently working on **LF Pay**
+- 🔭 I’m currently working on **C Marga**
 
-- 🌱 I’m currently learning **Java and Django**
+- 🌱 I’m currently learning **Java and Next Js**
 
 - 👯 I’m looking to collaborate on **Any MERN Projects and Flutter Projects**
 
-- 👨‍💻 All of my projects are available at [sangitpokhrel.fivem.me](sangitpokhrel.fivem.me)
+- 👨‍💻 All of my projects are available at [sangitpokhrel.fivem.me](sangit.artovasolutions.com)
 
-- 💬 Ask me about **MERN, FLutter, Html, Css, Python, Javascript**
+- 💬 Ask me about **MERN, FLutter, Html, Css, Python, Javascript, Java, Next js, Mongo db, Sql and more**
 
 - 📫 How to reach me **spokhrel.dev@gmail.com**
 
-- ⚡ Fun fact **I Think I Am Overthinker, Funny, Hardworker and Gamer too.**
+- ⚡ Fun fact **I Think I Am Overthinker, Funny, Hardworker and Gamer too :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
