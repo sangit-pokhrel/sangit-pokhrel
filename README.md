@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **spokhrel.dev@gmail.com**
 
-- ⚡ Fun fact **I Think I Am Overthinker, Funny, Hardworker and Gamer too :) **
+- ⚡ Fun fact **I Think I Am Problem Solver, Funny, Hardworker and Gamer too :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
