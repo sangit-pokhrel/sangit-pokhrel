@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/sangitpokhrel" target="blank"><img src="https://img.shields.io/twitter/follow/sangitpokhrel?logo=twitter&style=for-the-badge" alt="sangitpokhrel" /></a> </p>
 
-- 🔭 I’m currently working on **C Marga**
+- 🔭 I’m currently working on **Journal and LMS System on MERN Stack**
 
-- 🌱 I’m currently learning **Java and Next Js**
+- 🌱 I’m currently learning **Next Js And Ts**
 
-- 👯 I’m looking to collaborate on **Any MERN Projects and Flutter Projects**
+- 👯 I’m looking to collaborate on **Any MERN Projects and React Native Projects**
 
-- 👨‍💻 All of my projects are available at [sangitpokhrel.fivem.me](sangit.artovasolutions.com)
+- 👨‍💻 All of my projects are available at **sangit.artovasolutions.com**
 
-- 💬 Ask me about **MERN, FLutter, Html, Css, Python, Javascript, Java, Next js, Mongo db, Sql and more**
+- 💬 Ask me about **MERN, React Native, Html5, Css3, Python, Javascript, Java, Next js, Mongo db, Sql and more**
 
 - 📫 How to reach me **spokhrel.dev@gmail.com**
 
